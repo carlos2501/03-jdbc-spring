@@ -34,5 +34,5 @@ build/
 
 ### Custom ###
 .mvn/
-mvnw
-mvnw.cmd
+!/mvnw
+!/mvnw.cmd
